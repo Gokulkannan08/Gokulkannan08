@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gokul
-- 👀 I’m interested in web development and web designin
+- 👀 I’m interested in web development and web designing
 - 🌱 I’m currently learning flutter 

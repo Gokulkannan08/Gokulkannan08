@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hello World, I'm Gokul Kannan</h1>
+<div align="center">
+  <img height="150" src="https://i.imgur.com/HwJUlIm.png" alt="name"/>
+</div>
+
+<br />
 
 <p align="center">
   Software Developer | Web Gazer

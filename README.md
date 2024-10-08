@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100" height="100" src="https://tenor.com/bdgfE.gif" alt="kitten"/>
-</p>
-
 <h1 align="center">👋 Hello World, I'm Gokul Kannan</h1>
 
 <p align="center">
